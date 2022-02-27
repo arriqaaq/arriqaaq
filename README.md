@@ -17,10 +17,10 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Data stuctures
 
-- [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
 - [ring](https://github.com/arriqaaq/ring): Consistent hashing implementation using Red Black tree
-- [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
 - [xring](https://github.com/arriqaaq/xring): Consistent Hashing with Bounded Loads (using Red-Black tree)
+- [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
+- [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
 - [bst](https://github.com/arriqaaq/bst): Binary Search tree implementation
 
 ### Distributed Systems Papers
@@ -43,7 +43,6 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 - [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation for Go
 - [watcher](https://github.com/arriqaaq/watcher): A blocking watcher implementation to monitor an event until it has changed
-- [qalam]
 
 
 ### Experimental
