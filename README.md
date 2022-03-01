@@ -22,6 +22,8 @@ Hi there 👋. Here's a quick list of my favorite projects.
 - [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
 - [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
 - [bst](https://github.com/arriqaaq/bst): Binary Search tree implementation
+- [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
+- [hash](https://github.com/arriqaaq/hash): Hash is an in-memory Redis like hash datastructure in Go
 
 ### Distributed Systems Papers
 
@@ -41,7 +43,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 
 ### Utility
 
-- [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation for Go
+- [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation in Go
 - [watcher](https://github.com/arriqaaq/watcher): A blocking watcher implementation to monitor an event until it has changed
 
 
