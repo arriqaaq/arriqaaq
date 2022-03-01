@@ -53,3 +53,8 @@ Hi there 👋. Here's a quick list of my favorite projects.
 - [chennaijones](https://github.com/arriqaaq/chennaijones): A simple Lua shooter game, built with a bit of love
 
 Or, [browse all my projects](https://github.com/arriqaaq?tab=repositories&sort=stargazers).
+
+#### Github Stats
+
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arriqaaq)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriqaaq&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
