@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋. Here's a quick list of my favorite projects.
+Hi 👋. Here's a quick list of my favorite projects.
 
 ### Data stuctures
 
@@ -21,7 +21,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 - [xring](https://github.com/arriqaaq/xring): Consistent Hashing with Bounded Loads (using Red-Black tree)
 - [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
 - [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
-- [bst](https://github.com/arriqaaq/bst): Binary Search tree implementation
+- [skiplist](https://github.com/arriqaaq/skiplist): Fast and simple skip list in Go
 - [zset](https://github.com/arriqaaq/zset): ZSet is an in-memory Redis like sortedset datastructure in Go
 - [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
 - [hash](https://github.com/arriqaaq/hash): Hash is an in-memory Redis like hash datastructure in Go
