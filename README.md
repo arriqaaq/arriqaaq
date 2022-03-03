@@ -22,6 +22,7 @@ Hi there 👋. Here's a quick list of my favorite projects.
 - [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
 - [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
 - [bst](https://github.com/arriqaaq/bst): Binary Search tree implementation
+- [zset](https://github.com/arriqaaq/zset): ZSet is an in-memory Redis like sortedset datastructure in Go
 - [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
 - [hash](https://github.com/arriqaaq/hash): Hash is an in-memory Redis like hash datastructure in Go
 
