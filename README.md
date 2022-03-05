@@ -33,8 +33,8 @@ Hi 👋. Here's a quick list of my favorite projects.
 
 ### Networking / frameworks
 
-- [server](https://github.com/arriqaaq/server): Simple wrapper around Golang net/http to start/shut a server
 - [boomerang](https://github.com/arriqaaq/boomerang): Go-Http client with backoff/circuit breaker implemented
+- [server](https://github.com/arriqaaq/server): Simple wrapper around Golang net/http to start/shut a server
 
 ### Kubernetes
 
