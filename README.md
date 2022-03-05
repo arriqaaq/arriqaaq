@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋. Here's a quick list of my favorite projects.
+Hello 👋. Here's a list of my favorite projects.
 
 ### Data stuctures
 
@@ -45,6 +45,7 @@ Hi 👋. Here's a quick list of my favorite projects.
 ### Utility
 
 - [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation in Go
+- [aol](https://github.com/arriqaaq/aol): A simple and fast append-only log for Go.
 - [watcher](https://github.com/arriqaaq/watcher): A blocking watcher implementation to monitor an event until it has changed
 
 
@@ -53,7 +54,6 @@ Hi 👋. Here's a quick list of my favorite projects.
 - [aly](https://github.com/arriqaaq/aly): An interpreter in Go
 - [chennaijones](https://github.com/arriqaaq/chennaijones): A simple Lua shooter game, built with a bit of love
 
-Or, [browse all my projects](https://github.com/arriqaaq?tab=repositories&sort=stargazers).
 
 ### Github Stats
 
