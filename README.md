@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 Hello 👋. Here's a list of my favorite projects.
 
+### Databases
+- [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
+
 ### Data stuctures
 
 - [ring](https://github.com/arriqaaq/ring): Consistent hashing implementation using Red Black tree
