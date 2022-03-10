@@ -48,7 +48,7 @@ Hello 👋. Here's a list of my favorite projects.
 ### Utility
 
 - [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation in Go
-- [aol](https://github.com/arriqaaq/aol): A simple and fast append-only log in Go
+- [aol](https://github.com/arriqaaq/aol): A simple immutable append-only log in Go
 - [watcher](https://github.com/arriqaaq/watcher): A blocking watcher implementation to monitor an event until it has changed
 
 
