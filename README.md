@@ -50,6 +50,7 @@ Hello 👋. Here's a list of my favorite projects.
 - [zizou](https://github.com/arriqaaq/zizou): Embeddable, In memory sharded cache implementation in Go
 - [aol](https://github.com/arriqaaq/aol): A simple append-only log in Go
 - [watcher](https://github.com/arriqaaq/watcher): A blocking watcher implementation to monitor an event until it has changed
+- [scraper](https://github.com/arriqaaq/scraper): A simple library to scrape and monitor multiple urls in Go (with support for prometheus metrics)
 
 
 ### Experimental
