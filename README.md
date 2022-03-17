@@ -20,14 +20,15 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### Data stuctures
 
-- [ring](https://github.com/arriqaaq/ring): Consistent hashing implementation using Red Black tree
-- [xring](https://github.com/arriqaaq/xring): Consistent Hashing with Bounded Loads (using Red-Black tree)
-- [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
-- [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
+- [art](https://github.com/arriqaaq/art): An Adaptive Radix Tree (ART) implementation in Go
 - [skiplist](https://github.com/arriqaaq/skiplist): Fast and simple skip list in Go
 - [zset](https://github.com/arriqaaq/zset): ZSet is an in-memory Redis like sortedset datastructure in Go
 - [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
 - [hash](https://github.com/arriqaaq/hash): Hash is an in-memory Redis like hash datastructure in Go
+- [cuckoo](https://github.com/arriqaaq/cuckoo): a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
+- [rbt](https://github.com/arriqaaq/rbt): Red-Black tree implementation
+- [ring](https://github.com/arriqaaq/ring): Consistent hashing implementation using Red Black tree
+- [xring](https://github.com/arriqaaq/xring): Consistent Hashing with Bounded Loads (using Red-Black tree)
 
 ### Distributed Systems Papers
 
