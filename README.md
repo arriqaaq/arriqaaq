@@ -21,6 +21,7 @@ Hello 👋. Here's a list of my favorite projects.
 ### Data stuctures
 
 - [art](https://github.com/arriqaaq/art): An Adaptive Radix Tree (ART) implementation in Go
+- [merkletree](https://github.com/arriqaaq/merkletree): A Merkle Tree implementation as per [RFC#6962](https://datatracker.ietf.org/doc/html/rfc6962#section-2.1) for Certificate Transparency
 - [skiplist](https://github.com/arriqaaq/skiplist): Fast and simple skip list in Go
 - [zset](https://github.com/arriqaaq/zset): ZSet is an in-memory Redis like sortedset datastructure in Go
 - [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
