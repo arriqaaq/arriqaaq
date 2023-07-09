@@ -18,6 +18,7 @@ Hello 👋. Here's a list of my favorite projects.
 ### Databases
 - [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
 - [immudb](https://github.com/codenotary/immudb): An immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [surrealdb](https://github.com/surrealdb/surrealdb): A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 ### Data stuctures
 
