@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 Hello 👋. Here's a list of my favorite projects.
 
 ### Databases
+- [surrealkv](https://github.com/surrealdb/surrealkv): A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 - [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
 - [immudb](https://github.com/codenotary/immudb): An immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [surrealkv](https://github.com/surrealdb/surrealkv): A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 
 ### Data stuctures
 
+- [vart](https://github.com/surrealdb/vart): A versioned CoW adaptive radix trie data-structure in Rust
 - [art](https://github.com/arriqaaq/art): An Adaptive Radix Tree (ART) implementation in Go
 - [merkletree](https://github.com/arriqaaq/merkletree): A Merkle Tree implementation as per [RFC#6962](https://datatracker.ietf.org/doc/html/rfc6962#section-2.1) for Certificate Transparency
 - [skiplist](https://github.com/arriqaaq/skiplist): Fast and simple skip list in Go
