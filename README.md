@@ -25,6 +25,7 @@ Hello 👋. Here's a list of my favorite projects.
 - [vart](https://github.com/surrealdb/vart): A versioned CoW adaptive radix trie data-structure in Rust
 - [art](https://github.com/arriqaaq/art): An Adaptive Radix Tree (ART) implementation in Go
 - [merkletree](https://github.com/arriqaaq/merkletree): A Merkle Tree implementation as per [RFC#6962](https://datatracker.ietf.org/doc/html/rfc6962#section-2.1) for Certificate Transparency
+- [surf](https://github.com/arriqaaq/rsurf): SuRF: Practical Range Query Filtering with Fast Succinct Tries
 - [skiplist](https://github.com/arriqaaq/skiplist): Fast and simple skip list in Go
 - [zset](https://github.com/arriqaaq/zset): ZSet is an in-memory Redis like sortedset datastructure in Go
 - [set](https://github.com/arriqaaq/set): Set is an in-memory Redis like set datastructure in Go
