@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 Hello 👋. Here's a list of my favorite projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arriqaaq&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="isrealodejobi" />
+</p>
+
+
 ### Databases
 - [surrealkv](https://github.com/surrealdb/surrealkv): A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 - [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
