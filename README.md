@@ -40,6 +40,7 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### Distributed Systems Papers
 
+- [vsr](https://github.com/arriqaaq/vsr) Implementation of ViewStamp Replication Protocol
 - [chord](https://github.com/arriqaaq/chord): Implementation of Chord DHT(Distributed Hash Table) paper
 - [vector-clock](https://github.com/arriqaaq/vector-clocks): Vector-Clock implementation
 
