@@ -21,8 +21,8 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### Databases
 - [surrealkv](https://github.com/surrealdb/surrealkv): A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
-- [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
 - [immudb](https://github.com/codenotary/immudb): An immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
 
 ### Data stuctures
 
