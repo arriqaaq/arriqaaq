@@ -66,9 +66,3 @@ Hello 👋. Here's a list of my favorite projects.
 
 - [aly](https://github.com/arriqaaq/aly): An interpreter in Go
 - [chennaijones](https://github.com/arriqaaq/chennaijones): A simple Lua shooter game, built with a bit of love
-
-
-### Github Stats
-
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arriqaaq)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arriqaaq&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
