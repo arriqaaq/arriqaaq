@@ -25,6 +25,9 @@ Hello 👋. Here's a list of my favorite projects.
 - [immudb](https://github.com/codenotary/immudb): An immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
 
+### AI/ML
+- [ilm](https://github.com/arriqaaq/ilm): A semantic search platform for Islamic scholarship — Quran with tafsir, 34K+ hadiths with narrator chains, and interactive isnad graphs.
+
 ### Data stuctures
 
 - [vart](https://github.com/surrealdb/vart): A versioned CoW adaptive radix trie data-structure in Rust
