@@ -27,6 +27,7 @@ Hello 👋. Here's a list of my favorite projects.
 
 ### AI/ML
 - [ilm](https://github.com/arriqaaq/ilm): A semantic search platform for Islamic scholarship — Quran with tafsir, 34K+ hadiths with narrator chains, and interactive isnad graphs.
+- [hifz](https://github.com/arriqaaq/hifz): A persistent memory layer underneath Claude Code to remember important context within a session
 
 ### Data stuctures
 
