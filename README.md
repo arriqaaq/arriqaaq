@@ -20,7 +20,7 @@ Hello 👋. Here's a list of my favorite projects.
 
 
 ### Databases
-- [varaq](https://github.com/arriqaaq/varaq): The fastest, embedded, ACID-compliant, Rust-based embedded key-value database built on a B+Tree
+- [varaq](https://github.com/arriqaaq/varaq): A fast, embedded, ACID-compliant, Rust-based embedded key-value database built on a B+Tree
 - [surrealkv](https://github.com/surrealdb/surrealkv): A low-level, versioned, embedded, ACID-compliant, key-value database for Rust
 - [immudb](https://github.com/codenotary/immudb): An immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [flashdb](https://github.com/arriqaaq/flashdb): A Fast and simple, in-memory key/value store in Go (with Redis like commands)
